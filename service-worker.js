@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dam354/reddit-viewer.git/precache-manifest.007dcaadb71b798c9cb2e259300057c5.js"
+  "/reddit-viewer/precache-manifest.240f579d249c0fa66ee9d5bf3c7e40a7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dam354/reddit-viewer.git/index.html", {
+workbox.routing.registerNavigationRoute("/reddit-viewer/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
