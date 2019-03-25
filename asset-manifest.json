@@ -1,13 +1,13 @@
 {
   "main.css": "/reddit-viewer/static/css/main.0f76f14d.chunk.css",
-  "main.js": "/reddit-viewer/static/js/main.87f5fe41.chunk.js",
-  "main.js.map": "/reddit-viewer/static/js/main.87f5fe41.chunk.js.map",
+  "main.js": "/reddit-viewer/static/js/main.6528ebc9.chunk.js",
+  "main.js.map": "/reddit-viewer/static/js/main.6528ebc9.chunk.js.map",
   "runtime~main.js": "/reddit-viewer/static/js/runtime~main.19ebe7b4.js",
   "runtime~main.js.map": "/reddit-viewer/static/js/runtime~main.19ebe7b4.js.map",
   "static/js/2.08a5eb03.chunk.js": "/reddit-viewer/static/js/2.08a5eb03.chunk.js",
   "static/js/2.08a5eb03.chunk.js.map": "/reddit-viewer/static/js/2.08a5eb03.chunk.js.map",
   "index.html": "/reddit-viewer/index.html",
-  "precache-manifest.a2ee30db64fba807c949ba091564212a.js": "/reddit-viewer/precache-manifest.a2ee30db64fba807c949ba091564212a.js",
+  "precache-manifest.a8497a86f18adae43e3bc5b1645a0cab.js": "/reddit-viewer/precache-manifest.a8497a86f18adae43e3bc5b1645a0cab.js",
   "service-worker.js": "/reddit-viewer/service-worker.js",
   "static/css/main.0f76f14d.chunk.css.map": "/reddit-viewer/static/css/main.0f76f14d.chunk.css.map"
 }
